@@ -29,7 +29,7 @@ In order to run the program:
 
 Tests:
 
-1. There is a tests.sh file that will run test calls to the server. Just type 
+1. There is a tests.sh file that will run test calls to the server. Make sure the sever is running then type: 
 			
 							./tests.sh 
 			
