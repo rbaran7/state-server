@@ -1,0 +1,22 @@
+{
+	"name": "state-server",
+	"version": "1.0.0",
+	"description": "A server to tell us which state, if any, a point is in!",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rbaran7/StateServer.git"
+	},
+	"author": "romanbaran",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "1.17.2",
+		"express": "4.15.4",
+		"nodemon": "1.11.0",
+		"path": "0.12.7",
+		"point-in-polygon": "1.0.1"
+	}
+}
