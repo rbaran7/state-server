@@ -3,9 +3,17 @@ to tell you if a given point is inside a state!
 
 In order to run the program:
 
-1. Have Node.js installed & npm installed
-2. run npm install to get all the dependencies
-3. cd to the directory of this project and type: npm start
+1. Have Node.js & npm installed
+2. Clone this repo and cd to the projects root directory and type:
+		
+		npm install 
+		
+    to get all the dependencies
+    
+3. Type: 
+	
+	npm start
+	
 	You should see:
 				> state-server@1.0.0 start /project path
 				> nodemon server.js
