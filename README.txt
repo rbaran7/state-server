@@ -4,11 +4,13 @@ to tell you if a given point is inside a state!
 In order to run the program:
 
 1. Have Node.js & npm installed
-2. Clone this repo and cd to the projects root directory and type:
+2. Clone this repo and cd to the projects root directory
+   
+   Then type:
 		
 		npm install 
 		
-    to get all the dependencies
+    You should see some dependencies installing.
     
 3. Type: 
 	
